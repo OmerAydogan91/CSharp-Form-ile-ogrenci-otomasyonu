@@ -1,0 +1,15 @@
+C:\Users\MrCode\source\repos\EntityFrameworkProject\EntityFrameworkProject\EntityOrnek\bin\Debug\EntityOrnek.exe.config
+C:\Users\MrCode\source\repos\EntityFrameworkProject\EntityFrameworkProject\EntityOrnek\bin\Debug\EntityOrnek.exe
+C:\Users\MrCode\source\repos\EntityFrameworkProject\EntityFrameworkProject\EntityOrnek\bin\Debug\EntityOrnek.pdb
+C:\Users\MrCode\source\repos\EntityFrameworkProject\EntityFrameworkProject\EntityOrnek\bin\Debug\EntityFramework.dll
+C:\Users\MrCode\source\repos\EntityFrameworkProject\EntityFrameworkProject\EntityOrnek\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MrCode\source\repos\EntityFrameworkProject\EntityFrameworkProject\EntityOrnek\bin\Debug\EntityFramework.xml
+C:\Users\MrCode\source\repos\EntityFrameworkProject\EntityFrameworkProject\EntityOrnek\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MrCode\source\repos\EntityFrameworkProject\EntityFrameworkProject\EntityOrnek\obj\Debug\EntityOrnek.csprojAssemblyReference.cache
+C:\Users\MrCode\source\repos\EntityFrameworkProject\EntityFrameworkProject\EntityOrnek\obj\Debug\EntityOrnek.Form1.resources
+C:\Users\MrCode\source\repos\EntityFrameworkProject\EntityFrameworkProject\EntityOrnek\obj\Debug\EntityOrnek.Properties.Resources.resources
+C:\Users\MrCode\source\repos\EntityFrameworkProject\EntityFrameworkProject\EntityOrnek\obj\Debug\EntityOrnek.csproj.GenerateResource.cache
+C:\Users\MrCode\source\repos\EntityFrameworkProject\EntityFrameworkProject\EntityOrnek\obj\Debug\EntityOrnek.csproj.CoreCompileInputs.cache
+C:\Users\MrCode\source\repos\EntityFrameworkProject\EntityFrameworkProject\EntityOrnek\obj\Debug\EntityOrnek.csproj.CopyComplete
+C:\Users\MrCode\source\repos\EntityFrameworkProject\EntityFrameworkProject\EntityOrnek\obj\Debug\EntityOrnek.exe
+C:\Users\MrCode\source\repos\EntityFrameworkProject\EntityFrameworkProject\EntityOrnek\obj\Debug\EntityOrnek.pdb
